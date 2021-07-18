@@ -58,11 +58,28 @@ h1 {
   p::first-line {
     color: #0000ff;
     font-variant: small-caps;
-  }img {
-    border-radius: 50%;
+  }img{
+    border: 100%;
   }
 
   ol {
     background-color: lightblue;
   }
 
+  ol.a {
+    list-style-type: circle;
+  }
+  
+ol.b {
+    list-style-type: square;
+  }
+  
+  ol.c {
+    list-style-type: upper-roman;
+  }
+  
+  ol.d {
+    list-style-type: lower-alpha;
+  
+  }
+ 
