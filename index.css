@@ -1,6 +1,6 @@
 h1 {
     font-family: 'Courier New', 'Sans-Serif';
-    color: blue;
+    color: rgb(0, 255, 221);
     font-size: 28px;
     text-align: center;
   }
@@ -8,35 +8,35 @@ h1 {
   p2 {
     text-align: center;
     font-family: 'Times New Roman', cursive;
-    color: brown;
+    color: rgb(79, 42, 165);
   }
   
   ul {
     font-family: 'Courier New', 'Sans-Serif';
     list-style-type: none;
-    color:red;
+    color:rgb(255, 94, 0);
   }
   
   li {
-    color: red;
+    color: rgb(0, 255, 213);
     font-style: italic;
     text-align: center;
   }
   p {
     width: 320px;
     padding: 10px;
-    border: 5px solid gray;
+    border: 5px solid rgb(128, 128, 128);
     margin: 0;
   }h1 {
-    background-color: green;
+    background-color: rgb(38, 0, 128);
   }
   
   div {
-    background-color: lightblue;
+    background-color: rgb(230, 229, 173);
   }
   
   p {
-    background-color: yellow;
+    background-color: rgb(25, 0, 255);
   }
   body {
     background-image: url("image/fav.jpeg");
@@ -51,12 +51,12 @@ h1 {
     border-width: 20px 5px; 
   }
   p::first-letter {
-    color: #ff0000;
+    color: #ff00bf;
     font-size: xx-large;
   }
   
   p::first-line {
-    color: #0000ff;
+    color: #ff7300;
     font-variant: small-caps;
   }img{
     border: 100%;
