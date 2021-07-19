@@ -6,4 +6,4 @@
 
  
 
-![](design.jpg)
+![](design.jpeg)
