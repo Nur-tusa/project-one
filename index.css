@@ -34,3 +34,29 @@ ul li.active a
    {
  background-color: rgb(255, 0, 200);
    }
+   p {
+    background-color: yellow;
+    padding: 20px;
+  }
+   h1  {
+    background-color: rgb(122, 192, 43);
+    margin-bottom: auto;
+  } h2  {
+    background-color: rgb(57, 95, 201);
+    padding: 20px;
+  }
+  h3  {
+    background-color: rgb(192, 53, 43);
+    padding: 20px;
+  }h4  {
+    background-color: rgb(143, 49, 135);
+    padding: 20px;
+  }
+  h5  {
+    background-color: rgb(190, 166, 58);
+    padding: 10px;
+  }
+
+  }
+
+
